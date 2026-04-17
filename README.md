@@ -1,4 +1,4 @@
-# Pairs Trading with Machine Learning
+# Pairs Trading with Machine Learning ✨
 
 **Author**: Nabyl H.  
 **Course**: Certificate in Python for Finance (CPF)  
